@@ -304,7 +304,7 @@ header.masthead p {
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #fff;
-  background-color: #ee4b28 !important;
+  background-color: #A71135 !important;
 }
 
 .btn-primary:active, .btn-primary:focus {
@@ -324,7 +324,7 @@ header.masthead p {
 
 /* Style buttons */
 .btn {
-    background-color: #ff0101; /* Blue background */
+    background-color: #870404; /* Blue background */
     border: none; /* Remove borders */
     color: white; /* White text */
     padding: 12px 16px; /* Some padding */
@@ -380,8 +380,8 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #128f76;
-  border-color: #128f76;
+  background-color: #A71135;
+  border-color: #A71135;
 }
 
 .btn-secondary {
@@ -393,3 +393,5 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
+ 
